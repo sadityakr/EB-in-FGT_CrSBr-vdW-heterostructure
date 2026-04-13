@@ -1,0 +1,55 @@
+# Generated outputs and publication figures
+output/
+figures/
+
+# Raw/exploratory scripts (superseded by notebooks)
+raw_scripts/
+
+# Temporary files
+tmp/
+
+# Claude Code project instructions (private)
+CLAUDE.md
+.claude/
+
+# Image files (generated, not source data)
+*.png
+*.PNG
+
+# IDE project folders
+.vscode/
+.idea/
+.vs/
+
+# Non-data binary/image files
+*.bmp
+*.jpeg
+*.jpg
+*.pptx
+*.ppt
+
+# Python environments
+venv/
+.venv/
+env/
+.env
+*.env
+
+# Python build artifacts
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

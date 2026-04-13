@@ -1,0 +1,11 @@
+Material,Magnetic Anisotropy,AFM Order Type,Néel Temperature (K),Experimental Evidence
+FePS3,Out-of-plane,Intralayer (zigzag),118.0,Raman spectroscopy zone-folding [52]
+NiPS3,In-plane,"Intralayer (zigzag), interlayer FM",155.0,Optical dichroism and magnetization [56]
+MnPS3,Out-of-plane,Intralayer (Néel),78.0,ESR and Raman spectroscopy [68]
+CoPS3,In-plane,Intralayer (zigzag),122.0,Neutron diffraction and susceptibility [81]
+CrCl3,In-plane,"A-type (FM layers, AFM interlayer)",14.0,Magnetization and heat capacity [26]
+MnBi2Te4,Out-of-plane,"A-type (FM layers, AFM interlayer)",25.0,Neutron diffraction and magnetometry [36]
+CrPS4,Out-of-plane,"A-type (FM layers, AFM interlayer)",38.0,"Spin-flop transitions and modeling [91,92]"
+Co-doped Fe3GaTe2,Out-of-plane,"A-type (FM layers, AFM interlayer)",,Hall and MR thickness effect [18]
+Co-doped Fe5GeTe2,Out-of-plane,"A-type (FM layers, AFM interlayer)",337.0,Resonant x-ray scattering [45]
+CrI3 (bilayer),Out-of-plane,"A-type (FM layers, AFM interlayer)",61.0,MOKE and magnetoresistance [99]

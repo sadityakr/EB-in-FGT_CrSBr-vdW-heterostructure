@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the following paper."
+type: dataset
+title: "Data and analysis code: Switchable Exchange Bias Resulting From Correlated Domain Structures in Orthogonally Coupled Antiferromagnet/Ferromagnet van der Waals Heterostructures"
+repository-code: "https://github.com/sadityakr/EB-in-FGT_CrSBr-vdW-heterostructure"
+license: MIT
+date-released: "2025-09-12"
+
+authors:
+  - family-names: Kumar
+    given-names: Aditya
+  - family-names: Hameed
+    given-names: Sadeed
+  - family-names: Denneulin
+    given-names: Thibaud
+  - family-names: Balan
+    given-names: Aravind Puthirath
+  - family-names: Vas
+    given-names: Joseph
+  - family-names: Leutner
+    given-names: Kilian
+  - family-names: Gao
+    given-names: Lei
+  - family-names: Gomonay
+    given-names: Olena
+  - family-names: Sinova
+    given-names: Jairo
+  - family-names: Dunin-Borkowski
+    given-names: "Rafal E."
+  - family-names: Kläui
+    given-names: Mathias
+
+preferred-citation:
+  type: article
+  title: "Switchable Exchange Bias Resulting From Correlated Domain Structures in Orthogonally Coupled Antiferromagnet/Ferromagnet van der Waals Heterostructures"
+  journal: "Small"
+  volume: 21
+  issue: 42
+  article-number: "e06284"
+  year: 2025
+  issn: "1613-6810"
+  doi: "10.1002/smll.202506284"
+  url: "https://doi.org/10.1002/smll.202506284"
+  authors:
+    - family-names: Kumar
+      given-names: Aditya
+    - family-names: Hameed
+      given-names: Sadeed
+    - family-names: Denneulin
+      given-names: Thibaud
+    - family-names: Balan
+      given-names: Aravind Puthirath
+    - family-names: Vas
+      given-names: Joseph
+    - family-names: Leutner
+      given-names: Kilian
+    - family-names: Gao
+      given-names: Lei
+    - family-names: Gomonay
+      given-names: Olena
+    - family-names: Sinova
+      given-names: Jairo
+    - family-names: Dunin-Borkowski
+      given-names: "Rafal E."
+    - family-names: Kläui
+      given-names: Mathias
